@@ -18,6 +18,8 @@
 
   ##Usage
   To initialize this generator, install all dependencies and then use node .\index.js 
+  
+  ##Walkthrough Video https://drive.google.com/file/d/10kOc0gUO6CSoap9zkBrNHJIPrckVHE4C/view?usp=sharing
 
   ##Credits
   Collaborators: N/A
